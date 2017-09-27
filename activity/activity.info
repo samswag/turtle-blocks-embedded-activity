@@ -11,5 +11,5 @@ max_participants = 100
 license = GPL-2.0+
 metadata_license = CC0-1.0
 description: Launch Turtle Blocks inside the Sugar Browse activity
-repository = https://github.com/walterbender/turtle-blocks-embedded
-screenshots = https://github.com/walterbender/turtleblocksjs/blob/master/screenshots/screenshot.png
+repository = https://github.com/sugarlabs/turtle-blocks-embedded
+screenshots = https://rawgithub.com/walterbender/turtleblocksjs/master/screenshots/screenshot.png
